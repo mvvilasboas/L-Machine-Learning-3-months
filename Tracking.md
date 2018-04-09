@@ -15,6 +15,7 @@ Lec 9
 Lec 10
 Lec 11
 ### 09/04
+### To do
 Lec 12
 Lec 13
 Lec 14
