@@ -7,14 +7,14 @@ Lec 2
 Lec 3
 Lec 4
 Lec 5
-###--07/04--
+### --07/04--
 Lec 6
 Lec 7
 Lec 8
 Lec 9
 Lec 10
 Lec 11
---09/04--
+### --09/04--
 Lec 12
 Lec 13
 Lec 14
