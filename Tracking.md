@@ -1,13 +1,13 @@
 # Tracking the Course
 
 ## Week 1 - Linear Algebra (started 06/04)
---06/04--
+### --06/04--
 Lec 1
 Lec 2
 Lec 3
 Lec 4
 Lec 5
---07/04--
+###--07/04--
 Lec 6
 Lec 7
 Lec 8
